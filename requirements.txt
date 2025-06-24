@@ -1,0 +1,5 @@
+openai>=1.0.0
+python-dotenv>=1.0.0       # For loading environment variables from .env file
+rich>=13.0.0               # For beautiful CLI output (optional but nice)
+click>=8.0.0               # For building CLI commands (optional)
+requests>=2.28.0           # Often used with APIs, handy if extending
